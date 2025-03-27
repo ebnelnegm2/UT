@@ -2,4 +2,3 @@ requests
 telethon
 fake_useragent
 datetime
-base64
